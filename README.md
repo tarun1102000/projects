@@ -1,1 +1,1 @@
-# projects (data science, SQL)
+# projects (Data Science & SQL)
